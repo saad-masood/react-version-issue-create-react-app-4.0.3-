@@ -1,1 +1,1 @@
-Try **npx clear-npx-cache**
+    npx clear-npx-cache
