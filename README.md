@@ -1,1 +1,1 @@
-# react-version-issue-create-react-app-4.0.3-
+Try **npx clear-npx-cache**
